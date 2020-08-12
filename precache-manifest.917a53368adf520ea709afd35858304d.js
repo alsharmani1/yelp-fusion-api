@@ -1,15 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7984541e529ff636adc54533b205a99",
+    "revision": "d6a399be7025b91a276948de830b8046",
     "url": "/yelp-fusion-api/index.html"
+  },
+  {
+    "revision": "1a28da25e00a72a8f9d3",
+    "url": "/yelp-fusion-api/static/css/main.2b2e1503.chunk.css"
   },
   {
     "revision": "4c1481a9f2656b5f3aa5",
     "url": "/yelp-fusion-api/static/js/2.744db174.chunk.js"
   },
   {
-    "revision": "7d5c3ad52c309c1775e2",
-    "url": "/yelp-fusion-api/static/js/main.ea46866d.chunk.js"
+    "revision": "1a28da25e00a72a8f9d3",
+    "url": "/yelp-fusion-api/static/js/main.b507650a.chunk.js"
   },
   {
     "revision": "bbad12afa1d2157758e5",
