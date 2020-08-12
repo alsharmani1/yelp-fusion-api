@@ -1,0 +1,33 @@
+* {
+  font-family: Roboto
+}
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  margin: 40px;
+}
+
+.card {
+  margin: 20px auto;
+  width: 80%;
+  border: 1px solid rgb(196, 196, 196);
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 30px;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card .card-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card .card-address {
+  font-size: 15px;
+  font-weight: 500;
+}

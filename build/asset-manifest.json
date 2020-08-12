@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yelp-fusion-api/static/css/main.2b2e1503.chunk.css",
+    "main.js": "/yelp-fusion-api/static/js/main.b507650a.chunk.js",
+    "main.js.map": "/yelp-fusion-api/static/js/main.b507650a.chunk.js.map",
+    "runtime~main.js": "/yelp-fusion-api/static/js/runtime~main.60cb6907.js",
+    "runtime~main.js.map": "/yelp-fusion-api/static/js/runtime~main.60cb6907.js.map",
+    "static/js/2.744db174.chunk.js": "/yelp-fusion-api/static/js/2.744db174.chunk.js",
+    "static/js/2.744db174.chunk.js.map": "/yelp-fusion-api/static/js/2.744db174.chunk.js.map",
+    "index.html": "/yelp-fusion-api/index.html",
+    "precache-manifest.917a53368adf520ea709afd35858304d.js": "/yelp-fusion-api/precache-manifest.917a53368adf520ea709afd35858304d.js",
+    "service-worker.js": "/yelp-fusion-api/service-worker.js",
+    "static/css/main.2b2e1503.chunk.css.map": "/yelp-fusion-api/static/css/main.2b2e1503.chunk.css.map"
+  }
+}
